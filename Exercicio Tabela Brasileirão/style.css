@@ -1,0 +1,35 @@
+<style type="text/css">
+{
+margin: 0;
+padding: 0
+border: 5;  /* CSS Reset */
+}	
+body{
+.text-align: center;  /* Centraliza todo o conteudo */
+}
+
+html {
+	background:url("img/fundo.jpg") no-repeat;
+	background-size:39% 50%;
+}
+
+div .rebaixados{
+	BGCOLOR="red">
+}
+
+.thead {
+align = "center";  /* Centraliza todo o conteudo */
+}
+
+.tbody {
+align = "center";  /* Centraliza todo o conteudo */
+}
+
+}
+.img img{
+width: 100px;    /* largura da imagem */
+height: 100px;   /*  altura da imagem  */
+margin-top: 10px; /* margem do topo */
+
+}
+</style>
