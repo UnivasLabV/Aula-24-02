@@ -1,35 +1,46 @@
-<style type="text/css">
-{
-margin: 0;
-padding: 0
-border: 5;  /* CSS Reset */
-}	
+<style>
+
+thead {color: black;}
+thead{background: blue; font-style: italic;}
+thead{font-size: 20px;}
+tbody {color:black;}
+tfoot {color: white;}
+caption{color: black;}
+tfoot{background: red;}
+caption{font-size: 30px;}
+
+
+
+
 body{
-.text-align: center;  /* Centraliza todo o conteudo */
-}
-
-html {
-	background:url("img/fundo.jpg") no-repeat;
-	background-size:39% 50%;
-}
-
-div .rebaixados{
-	BGCOLOR="red">
-}
-
-.thead {
-align = "center";  /* Centraliza todo o conteudo */
-}
-
-.tbody {
-align = "center";  /* Centraliza todo o conteudo */
-}
+	background-color: silver ;
+	
 
 }
-.img img{
-width: 100px;    /* largura da imagem */
-height: 100px;   /*  altura da imagem  */
-margin-top: 10px; /* margem do topo */
 
+h1{
+	 text-align: center;
+	 font-size: 40px;
+}
+
+table{
+	text-align: center;
+}
+
+img{
+	max-height: 30px;
+	max-width: 30px;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+
+    
+}
+
+.rebaixados {
+    color: red;
 }
 </style>
